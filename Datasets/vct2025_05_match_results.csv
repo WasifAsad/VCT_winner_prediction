@@ -1,0 +1,273 @@
+match_id,event_id,event_name,team_1,team_2,score_team_1,score_team_2,winner,match_date,stage
+M0001,E002,VCT 2025: Americas Kickoff,NRG Esports,2GAME Esports,2,0,NRG Esports,2025-01-16,R1
+M0002,E002,VCT 2025: Americas Kickoff,Sentinels,The Guard,2,1,Sentinels,2025-01-16,R1
+M0003,E002,VCT 2025: Americas Kickoff,LOUD,KRU Esports,2,0,LOUD,2025-01-17,R1
+M0004,E002,VCT 2025: Americas Kickoff,G2 Esports,Leviatan,2,1,G2 Esports,2025-01-17,R1
+M0005,E002,VCT 2025: Americas Kickoff,Cloud9,Evil Geniuses,2,0,Cloud9,2025-01-18,R1
+M0006,E002,VCT 2025: Americas Kickoff,100 Thieves,FURIA Esports,2,1,100 Thieves,2025-01-18,R1
+M0007,E002,VCT 2025: Americas Kickoff,NRG Esports,LOUD,2,1,NRG Esports,2025-01-21,WR1
+M0008,E002,VCT 2025: Americas Kickoff,G2 Esports,100 Thieves,2,0,G2 Esports,2025-01-21,WR1
+M0009,E002,VCT 2025: Americas Kickoff,Cloud9,Sentinels,1,2,Sentinels,2025-01-22,WR1
+M0010,E002,VCT 2025: Americas Kickoff,2GAME Esports,The Guard,2,1,2GAME Esports,2025-01-20,LR1
+M0011,E002,VCT 2025: Americas Kickoff,KRU Esports,Leviatan,0,2,Leviatan,2025-01-20,LR1
+M0012,E002,VCT 2025: Americas Kickoff,Evil Geniuses,FURIA Esports,1,2,FURIA Esports,2025-01-20,LR1
+M0013,E002,VCT 2025: Americas Kickoff,NRG Esports,G2 Esports,2,0,NRG Esports,2025-01-24,WR2
+M0014,E002,VCT 2025: Americas Kickoff,100 Thieves,Sentinels,1,2,Sentinels,2025-01-24,WR2
+M0015,E002,VCT 2025: Americas Kickoff,2GAME Esports,Leviatan,1,2,Leviatan,2025-01-22,LR2
+M0016,E002,VCT 2025: Americas Kickoff,FURIA Esports,Cloud9,2,1,FURIA Esports,2025-01-23,LR2
+M0017,E002,VCT 2025: Americas Kickoff,Sentinels,Leviatan,2,0,Sentinels,2025-01-26,LR3
+M0018,E002,VCT 2025: Americas Kickoff,NRG Esports,G2 Esports,2,1,NRG Esports,2025-01-27,SF
+M0019,E002,VCT 2025: Americas Kickoff,FURIA Esports,100 Thieves,2,1,FURIA Esports,2025-01-28,LR4
+M0020,E002,VCT 2025: Americas Kickoff,NRG Esports,FURIA Esports,2,1,NRG Esports,2025-02-09,Grand Final
+M0021,E003,VCT 2025: Pacific Kickoff,Paper Rex,BOOM Esports,2,0,Paper Rex,2025-01-17,R1
+M0022,E003,VCT 2025: Pacific Kickoff,T1,Nongshim RedForce,2,1,T1,2025-01-17,R1
+M0023,E003,VCT 2025: Pacific Kickoff,DRX,ZETA DIVISION,2,1,DRX,2025-01-18,R1
+M0024,E003,VCT 2025: Pacific Kickoff,Gen.G Esports,Team Secret,2,0,Gen.G Esports,2025-01-18,R1
+M0025,E003,VCT 2025: Pacific Kickoff,Rex Regum Qeon,Global Esports,2,0,Rex Regum Qeon,2025-01-19,R1
+M0026,E003,VCT 2025: Pacific Kickoff,DetonatioN FocusMe,TALON Esports,1,2,TALON Esports,2025-01-19,R1
+M0027,E003,VCT 2025: Pacific Kickoff,Paper Rex,T1,2,1,Paper Rex,2025-01-22,WR1
+M0028,E003,VCT 2025: Pacific Kickoff,Gen.G Esports,DRX,1,2,DRX,2025-01-22,WR1
+M0029,E003,VCT 2025: Pacific Kickoff,Rex Regum Qeon,TALON Esports,2,1,Rex Regum Qeon,2025-01-21,WR1
+M0030,E003,VCT 2025: Pacific Kickoff,BOOM Esports,Nongshim RedForce,0,2,Nongshim RedForce,2025-01-20,LR1
+M0031,E003,VCT 2025: Pacific Kickoff,ZETA DIVISION,Team Secret,2,1,ZETA DIVISION,2025-01-20,LR1
+M0032,E003,VCT 2025: Pacific Kickoff,Global Esports,DetonatioN FocusMe,1,2,DetonatioN FocusMe,2025-01-21,LR1
+M0033,E003,VCT 2025: Pacific Kickoff,Paper Rex,Rex Regum Qeon,2,0,Paper Rex,2025-01-25,WR2
+M0034,E003,VCT 2025: Pacific Kickoff,DRX,T1,2,1,DRX,2025-01-25,WR2
+M0035,E003,VCT 2025: Pacific Kickoff,Nongshim RedForce,ZETA DIVISION,2,1,Nongshim RedForce,2025-01-23,LR2
+M0036,E003,VCT 2025: Pacific Kickoff,Gen.G Esports,DetonatioN FocusMe,2,0,Gen.G Esports,2025-01-23,LR2
+M0037,E003,VCT 2025: Pacific Kickoff,DRX,Nongshim RedForce,2,1,DRX,2025-01-27,LR3
+M0038,E003,VCT 2025: Pacific Kickoff,Paper Rex,Rex Regum Qeon,2,1,Paper Rex,2025-01-28,SF
+M0039,E003,VCT 2025: Pacific Kickoff,DRX,Gen.G Esports,2,1,DRX,2025-01-29,LR4
+M0040,E003,VCT 2025: Pacific Kickoff,Paper Rex,DRX,2,1,Paper Rex,2025-02-09,Grand Final
+M0041,E004,VCT 2025: EMEA Kickoff,Team Liquid,Gentle Mates,2,0,Team Liquid,2025-01-14,R1
+M0042,E004,VCT 2025: EMEA Kickoff,Fnatic,Apeks,2,1,Fnatic,2025-01-14,R1
+M0043,E004,VCT 2025: EMEA Kickoff,Team Vitality,KOI,2,0,Team Vitality,2025-01-15,R1
+M0044,E004,VCT 2025: EMEA Kickoff,Team Heretics,GIANTX,2,1,Team Heretics,2025-01-15,R1
+M0045,E004,VCT 2025: EMEA Kickoff,Natus Vincere,BBL Esports,2,0,Natus Vincere,2025-01-16,R1
+M0046,E004,VCT 2025: EMEA Kickoff,Karmine Corp,FUT Esports,2,1,Karmine Corp,2025-01-16,R1
+M0047,E004,VCT 2025: EMEA Kickoff,Team Liquid,Fnatic,1,2,Fnatic,2025-01-20,WR1
+M0048,E004,VCT 2025: EMEA Kickoff,Team Vitality,Team Heretics,2,0,Team Vitality,2025-01-20,WR1
+M0049,E004,VCT 2025: EMEA Kickoff,Natus Vincere,Karmine Corp,2,1,Natus Vincere,2025-01-21,WR1
+M0050,E004,VCT 2025: EMEA Kickoff,Gentle Mates,Apeks,2,1,Gentle Mates,2025-01-18,LR1
+M0051,E004,VCT 2025: EMEA Kickoff,KOI,GIANTX,1,2,GIANTX,2025-01-18,LR1
+M0052,E004,VCT 2025: EMEA Kickoff,BBL Esports,FUT Esports,2,1,BBL Esports,2025-01-19,LR1
+M0053,E004,VCT 2025: EMEA Kickoff,Fnatic,Team Vitality,1,2,Team Vitality,2025-01-24,WR2
+M0054,E004,VCT 2025: EMEA Kickoff,Natus Vincere,Team Liquid,1,2,Team Liquid,2025-01-25,WR2
+M0055,E004,VCT 2025: EMEA Kickoff,Gentle Mates,GIANTX,2,0,Gentle Mates,2025-01-22,LR2
+M0056,E004,VCT 2025: EMEA Kickoff,Fnatic,BBL Esports,2,1,Fnatic,2025-01-23,LR2
+M0057,E004,VCT 2025: EMEA Kickoff,Team Vitality,Gentle Mates,2,0,Team Vitality,2025-01-27,LR3
+M0058,E004,VCT 2025: EMEA Kickoff,Team Liquid,Natus Vincere,2,1,Team Liquid,2025-01-28,SF
+M0059,E004,VCT 2025: EMEA Kickoff,Team Vitality,Fnatic,2,1,Team Vitality,2025-01-29,LR4
+M0060,E004,VCT 2025: EMEA Kickoff,Team Liquid,Team Vitality,2,0,Team Liquid,2025-02-10,Grand Final
+M0061,E005,VCT Masters Bangkok 2025,NRG Esports,Team Liquid,2,0,NRG Esports,2025-02-20,Group A
+M0062,E005,VCT Masters Bangkok 2025,Paper Rex,FURIA Esports,2,1,Paper Rex,2025-02-20,Group A
+M0063,E005,VCT Masters Bangkok 2025,Team Vitality,DRX,2,0,Team Vitality,2025-02-21,Group B
+M0064,E005,VCT Masters Bangkok 2025,Team Liquid,Paper Rex,2,1,Team Liquid,2025-02-21,Group A
+M0065,E005,VCT Masters Bangkok 2025,NRG Esports,FURIA Esports,2,0,NRG Esports,2025-02-22,Group A
+M0066,E005,VCT Masters Bangkok 2025,Team Vitality,Gen.G Esports,1,2,Gen.G Esports,2025-02-22,Group B
+M0067,E005,VCT Masters Bangkok 2025,DRX,Edward Gaming,2,1,DRX,2025-02-23,Group B
+M0068,E005,VCT Masters Bangkok 2025,Gen.G Esports,Edward Gaming,2,0,Gen.G Esports,2025-02-23,Group B
+M0069,E005,VCT Masters Bangkok 2025,NRG Esports,Paper Rex,2,1,NRG Esports,2025-02-24,QF
+M0070,E005,VCT Masters Bangkok 2025,Gen.G Esports,Team Liquid,1,2,Team Liquid,2025-02-24,QF
+M0071,E005,VCT Masters Bangkok 2025,NRG Esports,Team Vitality,2,0,NRG Esports,2025-02-26,SF
+M0072,E005,VCT Masters Bangkok 2025,Team Liquid,DRX,2,1,Team Liquid,2025-02-26,SF
+M0073,E005,VCT Masters Bangkok 2025,Team Vitality,DRX,2,1,Team Vitality,2025-02-28,3rd Place
+M0074,E005,VCT Masters Bangkok 2025,NRG Esports,Team Liquid,2,1,NRG Esports,2025-03-02,Grand Final
+M0075,E007,VCT 2025: Americas Stage 1,NRG Esports,Sentinels,2,1,NRG Esports,2025-03-21,Week 1
+M0076,E007,VCT 2025: Americas Stage 1,LOUD,100 Thieves,2,0,LOUD,2025-03-21,Week 1
+M0077,E007,VCT 2025: Americas Stage 1,G2 Esports,Evil Geniuses,2,1,G2 Esports,2025-03-22,Week 1
+M0078,E007,VCT 2025: Americas Stage 1,FURIA Esports,Cloud9,1,2,Cloud9,2025-03-22,Week 1
+M0079,E007,VCT 2025: Americas Stage 1,Leviatan,The Guard,2,0,Leviatan,2025-03-23,Week 1
+M0080,E007,VCT 2025: Americas Stage 1,KRU Esports,2GAME Esports,2,1,KRU Esports,2025-03-23,Week 1
+M0081,E007,VCT 2025: Americas Stage 1,NRG Esports,LOUD,2,0,NRG Esports,2025-03-28,Week 2
+M0082,E007,VCT 2025: Americas Stage 1,G2 Esports,Cloud9,2,1,G2 Esports,2025-03-28,Week 2
+M0083,E007,VCT 2025: Americas Stage 1,FURIA Esports,100 Thieves,1,2,100 Thieves,2025-03-29,Week 2
+M0084,E007,VCT 2025: Americas Stage 1,Leviatan,2GAME Esports,2,0,Leviatan,2025-03-29,Week 2
+M0085,E007,VCT 2025: Americas Stage 1,Sentinels,Evil Geniuses,2,1,Sentinels,2025-03-30,Week 2
+M0086,E007,VCT 2025: Americas Stage 1,The Guard,KRU Esports,0,2,KRU Esports,2025-03-30,Week 2
+M0087,E007,VCT 2025: Americas Stage 1,NRG Esports,G2 Esports,1,2,G2 Esports,2025-04-04,Week 3
+M0088,E007,VCT 2025: Americas Stage 1,LOUD,FURIA Esports,2,1,LOUD,2025-04-04,Week 3
+M0089,E007,VCT 2025: Americas Stage 1,Cloud9,100 Thieves,1,2,100 Thieves,2025-04-05,Week 3
+M0090,E007,VCT 2025: Americas Stage 1,Leviatan,Sentinels,0,2,Sentinels,2025-04-05,Week 3
+M0091,E007,VCT 2025: Americas Stage 1,NRG Esports,Leviatan,2,0,NRG Esports,2025-04-11,Week 4
+M0092,E007,VCT 2025: Americas Stage 1,G2 Esports,LOUD,1,2,LOUD,2025-04-11,Week 4
+M0093,E007,VCT 2025: Americas Stage 1,100 Thieves,Sentinels,2,1,100 Thieves,2025-04-12,Week 4
+M0094,E007,VCT 2025: Americas Stage 1,KRU Esports,Evil Geniuses,2,1,KRU Esports,2025-04-12,Week 4
+M0095,E007,VCT 2025: Americas Stage 1,NRG Esports,100 Thieves,2,1,NRG Esports,2025-04-18,Week 5
+M0096,E007,VCT 2025: Americas Stage 1,LOUD,Sentinels,2,0,LOUD,2025-04-18,Week 5
+M0097,E007,VCT 2025: Americas Stage 1,G2 Esports,FURIA Esports,2,1,G2 Esports,2025-04-19,Week 5
+M0098,E007,VCT 2025: Americas Stage 1,Cloud9,Leviatan,2,0,Cloud9,2025-04-19,Week 5
+M0099,E007,VCT 2025: Americas Stage 1,NRG Esports,LOUD,2,1,NRG Esports,2025-04-25,Playoff QF
+M0100,E007,VCT 2025: Americas Stage 1,G2 Esports,100 Thieves,2,0,G2 Esports,2025-04-25,Playoff QF
+M0101,E007,VCT 2025: Americas Stage 1,Sentinels,FURIA Esports,1,2,FURIA Esports,2025-04-26,Playoff QF
+M0102,E007,VCT 2025: Americas Stage 1,Cloud9,Leviatan,2,1,Cloud9,2025-04-26,Playoff QF
+M0103,E007,VCT 2025: Americas Stage 1,NRG Esports,G2 Esports,2,0,NRG Esports,2025-04-30,Playoff SF
+M0104,E007,VCT 2025: Americas Stage 1,FURIA Esports,Cloud9,2,1,FURIA Esports,2025-04-30,Playoff SF
+M0105,E007,VCT 2025: Americas Stage 1,NRG Esports,FURIA Esports,2,1,NRG Esports,2025-05-04,Playoff GF
+M0106,E008,VCT 2025: Pacific Stage 1,Paper Rex,T1,2,1,Paper Rex,2025-03-21,Week 1
+M0107,E008,VCT 2025: Pacific Stage 1,DRX,Gen.G Esports,1,2,Gen.G Esports,2025-03-21,Week 1
+M0108,E008,VCT 2025: Pacific Stage 1,TALON Esports,BOOM Esports,2,0,TALON Esports,2025-03-22,Week 1
+M0109,E008,VCT 2025: Pacific Stage 1,ZETA DIVISION,Nongshim RedForce,1,2,Nongshim RedForce,2025-03-22,Week 1
+M0110,E008,VCT 2025: Pacific Stage 1,Rex Regum Qeon,DetonatioN FocusMe,2,1,Rex Regum Qeon,2025-03-23,Week 1
+M0111,E008,VCT 2025: Pacific Stage 1,Global Esports,Team Secret,0,2,Team Secret,2025-03-23,Week 1
+M0112,E008,VCT 2025: Pacific Stage 1,Paper Rex,DRX,2,0,Paper Rex,2025-03-28,Week 2
+M0113,E008,VCT 2025: Pacific Stage 1,Gen.G Esports,T1,1,2,T1,2025-03-28,Week 2
+M0114,E008,VCT 2025: Pacific Stage 1,Nongshim RedForce,TALON Esports,2,1,Nongshim RedForce,2025-03-29,Week 2
+M0115,E008,VCT 2025: Pacific Stage 1,Rex Regum Qeon,ZETA DIVISION,2,0,Rex Regum Qeon,2025-03-29,Week 2
+M0116,E008,VCT 2025: Pacific Stage 1,DetonatioN FocusMe,Team Secret,1,2,Team Secret,2025-03-30,Week 2
+M0117,E008,VCT 2025: Pacific Stage 1,BOOM Esports,Global Esports,2,0,BOOM Esports,2025-03-30,Week 2
+M0118,E008,VCT 2025: Pacific Stage 1,Paper Rex,Nongshim RedForce,2,1,Paper Rex,2025-04-04,Week 3
+M0119,E008,VCT 2025: Pacific Stage 1,T1,Rex Regum Qeon,2,1,T1,2025-04-04,Week 3
+M0120,E008,VCT 2025: Pacific Stage 1,Gen.G Esports,TALON Esports,2,0,Gen.G Esports,2025-04-05,Week 3
+M0121,E008,VCT 2025: Pacific Stage 1,DRX,ZETA DIVISION,2,1,DRX,2025-04-05,Week 3
+M0122,E008,VCT 2025: Pacific Stage 1,Paper Rex,T1,2,0,Paper Rex,2025-04-11,Week 4
+M0123,E008,VCT 2025: Pacific Stage 1,Gen.G Esports,Nongshim RedForce,1,2,Nongshim RedForce,2025-04-11,Week 4
+M0124,E008,VCT 2025: Pacific Stage 1,DRX,Rex Regum Qeon,2,1,DRX,2025-04-12,Week 4
+M0125,E008,VCT 2025: Pacific Stage 1,TALON Esports,Team Secret,2,1,TALON Esports,2025-04-12,Week 4
+M0126,E008,VCT 2025: Pacific Stage 1,Paper Rex,Gen.G Esports,2,1,Paper Rex,2025-04-25,Playoff QF
+M0127,E008,VCT 2025: Pacific Stage 1,DRX,Nongshim RedForce,2,0,DRX,2025-04-25,Playoff QF
+M0128,E008,VCT 2025: Pacific Stage 1,T1,TALON Esports,2,1,T1,2025-04-26,Playoff QF
+M0129,E008,VCT 2025: Pacific Stage 1,Rex Regum Qeon,Team Secret,2,0,Rex Regum Qeon,2025-04-26,Playoff QF
+M0130,E008,VCT 2025: Pacific Stage 1,Paper Rex,DRX,2,1,Paper Rex,2025-04-30,Playoff SF
+M0131,E008,VCT 2025: Pacific Stage 1,T1,Rex Regum Qeon,2,0,T1,2025-04-30,Playoff SF
+M0132,E008,VCT 2025: Pacific Stage 1,Paper Rex,T1,2,0,Paper Rex,2025-05-11,Playoff GF
+M0133,E009,VCT 2025: EMEA Stage 1,Team Liquid,Fnatic,2,1,Team Liquid,2025-03-26,Week 1
+M0134,E009,VCT 2025: EMEA Stage 1,Team Vitality,Team Heretics,2,0,Team Vitality,2025-03-26,Week 1
+M0135,E009,VCT 2025: EMEA Stage 1,Natus Vincere,KOI,2,1,Natus Vincere,2025-03-27,Week 1
+M0136,E009,VCT 2025: EMEA Stage 1,Gentle Mates,GIANTX,1,2,GIANTX,2025-03-27,Week 1
+M0137,E009,VCT 2025: EMEA Stage 1,Apeks,FUT Esports,2,1,Apeks,2025-03-28,Week 1
+M0138,E009,VCT 2025: EMEA Stage 1,BBL Esports,Karmine Corp,0,2,Karmine Corp,2025-03-28,Week 1
+M0139,E009,VCT 2025: EMEA Stage 1,Team Liquid,Team Vitality,1,2,Team Vitality,2025-04-02,Week 2
+M0140,E009,VCT 2025: EMEA Stage 1,Fnatic,Natus Vincere,1,2,Natus Vincere,2025-04-02,Week 2
+M0141,E009,VCT 2025: EMEA Stage 1,GIANTX,Apeks,2,0,GIANTX,2025-04-03,Week 2
+M0142,E009,VCT 2025: EMEA Stage 1,Team Heretics,Karmine Corp,2,1,Team Heretics,2025-04-03,Week 2
+M0143,E009,VCT 2025: EMEA Stage 1,Team Vitality,Natus Vincere,2,1,Team Vitality,2025-04-09,Week 3
+M0144,E009,VCT 2025: EMEA Stage 1,Team Liquid,GIANTX,2,0,Team Liquid,2025-04-09,Week 3
+M0145,E009,VCT 2025: EMEA Stage 1,Team Heretics,Apeks,2,1,Team Heretics,2025-04-10,Week 3
+M0146,E009,VCT 2025: EMEA Stage 1,Fnatic,KOI,2,0,Fnatic,2025-04-10,Week 3
+M0147,E009,VCT 2025: EMEA Stage 1,Team Vitality,Team Liquid,2,0,Team Vitality,2025-04-16,Week 4
+M0148,E009,VCT 2025: EMEA Stage 1,Natus Vincere,GIANTX,2,1,Natus Vincere,2025-04-16,Week 4
+M0149,E009,VCT 2025: EMEA Stage 1,Fnatic,Team Heretics,1,2,Team Heretics,2025-04-17,Week 4
+M0150,E009,VCT 2025: EMEA Stage 1,Karmine Corp,KOI,2,0,Karmine Corp,2025-04-17,Week 4
+M0151,E009,VCT 2025: EMEA Stage 1,Team Vitality,Fnatic,2,1,Team Vitality,2025-04-25,Playoff QF
+M0152,E009,VCT 2025: EMEA Stage 1,Team Liquid,Natus Vincere,2,0,Team Liquid,2025-04-25,Playoff QF
+M0153,E009,VCT 2025: EMEA Stage 1,Team Heretics,Karmine Corp,2,1,Team Heretics,2025-04-26,Playoff QF
+M0154,E009,VCT 2025: EMEA Stage 1,GIANTX,Apeks,1,2,Apeks,2025-04-26,Playoff QF
+M0155,E009,VCT 2025: EMEA Stage 1,Team Vitality,Team Liquid,2,1,Team Vitality,2025-04-30,Playoff SF
+M0156,E009,VCT 2025: EMEA Stage 1,Team Heretics,Apeks,2,0,Team Heretics,2025-04-30,Playoff SF
+M0157,E009,VCT 2025: EMEA Stage 1,Team Vitality,Team Heretics,2,1,Team Vitality,2025-05-18,Playoff GF
+M0158,E010,VCT Masters Toronto 2025,NRG Esports,Paper Rex,2,1,NRG Esports,2025-06-07,Group A
+M0159,E010,VCT Masters Toronto 2025,Team Vitality,Natus Vincere,2,0,Team Vitality,2025-06-07,Group B
+M0160,E010,VCT Masters Toronto 2025,LOUD,DRX,2,1,LOUD,2025-06-08,Group A
+M0161,E010,VCT Masters Toronto 2025,Team Heretics,T1,1,2,T1,2025-06-08,Group B
+M0162,E010,VCT Masters Toronto 2025,NRG Esports,LOUD,2,0,NRG Esports,2025-06-09,Group A
+M0163,E010,VCT Masters Toronto 2025,Paper Rex,DRX,2,1,Paper Rex,2025-06-09,Group A
+M0164,E010,VCT Masters Toronto 2025,Team Vitality,T1,2,1,Team Vitality,2025-06-10,Group B
+M0165,E010,VCT Masters Toronto 2025,Natus Vincere,Team Heretics,2,0,Natus Vincere,2025-06-10,Group B
+M0166,E010,VCT Masters Toronto 2025,NRG Esports,Team Vitality,1,2,Team Vitality,2025-06-13,QF
+M0167,E010,VCT Masters Toronto 2025,Paper Rex,Natus Vincere,2,0,Paper Rex,2025-06-13,QF
+M0168,E010,VCT Masters Toronto 2025,LOUD,T1,1,2,T1,2025-06-14,QF
+M0169,E010,VCT Masters Toronto 2025,DRX,Team Heretics,0,2,Team Heretics,2025-06-14,QF
+M0170,E010,VCT Masters Toronto 2025,Team Vitality,Paper Rex,2,1,Team Vitality,2025-06-19,SF
+M0171,E010,VCT Masters Toronto 2025,T1,Team Heretics,2,0,T1,2025-06-19,SF
+M0172,E010,VCT Masters Toronto 2025,Team Vitality,T1,2,1,Team Vitality,2025-06-22,Grand Final
+M0173,E012,VCT 2025: Pacific Stage 2,Paper Rex,DRX,2,0,Paper Rex,2025-07-15,Week 1
+M0174,E012,VCT 2025: Pacific Stage 2,T1,Gen.G Esports,2,1,T1,2025-07-15,Week 1
+M0175,E012,VCT 2025: Pacific Stage 2,Nongshim RedForce,Rex Regum Qeon,2,0,Nongshim RedForce,2025-07-16,Week 1
+M0176,E012,VCT 2025: Pacific Stage 2,TALON Esports,ZETA DIVISION,2,1,TALON Esports,2025-07-16,Week 1
+M0177,E012,VCT 2025: Pacific Stage 2,BOOM Esports,DetonatioN FocusMe,2,1,BOOM Esports,2025-07-17,Week 1
+M0178,E012,VCT 2025: Pacific Stage 2,Global Esports,Team Secret,0,2,Team Secret,2025-07-17,Week 1
+M0179,E012,VCT 2025: Pacific Stage 2,Paper Rex,T1,2,1,Paper Rex,2025-07-22,Week 2
+M0180,E012,VCT 2025: Pacific Stage 2,DRX,Nongshim RedForce,1,2,Nongshim RedForce,2025-07-22,Week 2
+M0181,E012,VCT 2025: Pacific Stage 2,Gen.G Esports,TALON Esports,2,0,Gen.G Esports,2025-07-23,Week 2
+M0182,E012,VCT 2025: Pacific Stage 2,Rex Regum Qeon,ZETA DIVISION,2,1,Rex Regum Qeon,2025-07-23,Week 2
+M0183,E012,VCT 2025: Pacific Stage 2,Paper Rex,Gen.G Esports,2,0,Paper Rex,2025-07-29,Week 3
+M0184,E012,VCT 2025: Pacific Stage 2,Nongshim RedForce,T1,1,2,T1,2025-07-29,Week 3
+M0185,E012,VCT 2025: Pacific Stage 2,DRX,TALON Esports,2,1,DRX,2025-07-30,Week 3
+M0186,E012,VCT 2025: Pacific Stage 2,Rex Regum Qeon,BOOM Esports,2,0,Rex Regum Qeon,2025-07-30,Week 3
+M0187,E012,VCT 2025: Pacific Stage 2,Paper Rex,Nongshim RedForce,2,1,Paper Rex,2025-08-05,Week 4
+M0188,E012,VCT 2025: Pacific Stage 2,T1,DRX,2,0,T1,2025-08-05,Week 4
+M0189,E012,VCT 2025: Pacific Stage 2,Gen.G Esports,Rex Regum Qeon,2,1,Gen.G Esports,2025-08-06,Week 4
+M0190,E012,VCT 2025: Pacific Stage 2,Paper Rex,Rex Regum Qeon,2,0,Paper Rex,2025-08-19,Playoff QF
+M0191,E012,VCT 2025: Pacific Stage 2,T1,DRX,2,1,T1,2025-08-19,Playoff QF
+M0192,E012,VCT 2025: Pacific Stage 2,Gen.G Esports,Nongshim RedForce,2,1,Gen.G Esports,2025-08-20,Playoff QF
+M0193,E012,VCT 2025: Pacific Stage 2,TALON Esports,BOOM Esports,2,0,TALON Esports,2025-08-20,Playoff QF
+M0194,E012,VCT 2025: Pacific Stage 2,Paper Rex,T1,2,0,Paper Rex,2025-08-27,Playoff SF
+M0195,E012,VCT 2025: Pacific Stage 2,Gen.G Esports,TALON Esports,2,1,Gen.G Esports,2025-08-27,Playoff SF
+M0196,E012,VCT 2025: Pacific Stage 2,Paper Rex,Gen.G Esports,2,1,Paper Rex,2025-08-31,Playoff GF
+M0197,E013,VCT 2025: EMEA Stage 2,Team Vitality,Fnatic,2,0,Team Vitality,2025-07-16,Week 1
+M0198,E013,VCT 2025: EMEA Stage 2,Team Liquid,Team Heretics,2,1,Team Liquid,2025-07-16,Week 1
+M0199,E013,VCT 2025: EMEA Stage 2,Natus Vincere,GIANTX,2,1,Natus Vincere,2025-07-17,Week 1
+M0200,E013,VCT 2025: EMEA Stage 2,KOI,Karmine Corp,1,2,Karmine Corp,2025-07-17,Week 1
+M0201,E013,VCT 2025: EMEA Stage 2,Apeks,BBL Esports,2,1,Apeks,2025-07-18,Week 1
+M0202,E013,VCT 2025: EMEA Stage 2,Gentle Mates,FUT Esports,2,0,Gentle Mates,2025-07-18,Week 1
+M0203,E013,VCT 2025: EMEA Stage 2,Team Vitality,Team Liquid,2,1,Team Vitality,2025-07-23,Week 2
+M0204,E013,VCT 2025: EMEA Stage 2,Fnatic,Team Heretics,1,2,Team Heretics,2025-07-23,Week 2
+M0205,E013,VCT 2025: EMEA Stage 2,Natus Vincere,Karmine Corp,2,0,Natus Vincere,2025-07-24,Week 2
+M0206,E013,VCT 2025: EMEA Stage 2,GIANTX,Apeks,2,1,GIANTX,2025-07-24,Week 2
+M0207,E013,VCT 2025: EMEA Stage 2,Team Vitality,Natus Vincere,2,1,Team Vitality,2025-07-30,Week 3
+M0208,E013,VCT 2025: EMEA Stage 2,Team Liquid,GIANTX,2,0,Team Liquid,2025-07-30,Week 3
+M0209,E013,VCT 2025: EMEA Stage 2,Team Heretics,Karmine Corp,2,1,Team Heretics,2025-07-31,Week 3
+M0210,E013,VCT 2025: EMEA Stage 2,Fnatic,Apeks,2,0,Fnatic,2025-07-31,Week 3
+M0211,E013,VCT 2025: EMEA Stage 2,Team Vitality,Team Heretics,2,0,Team Vitality,2025-08-06,Week 4
+M0212,E013,VCT 2025: EMEA Stage 2,Team Liquid,Fnatic,2,1,Team Liquid,2025-08-06,Week 4
+M0213,E013,VCT 2025: EMEA Stage 2,Natus Vincere,GIANTX,2,0,Natus Vincere,2025-08-07,Week 4
+M0214,E013,VCT 2025: EMEA Stage 2,Team Vitality,Team Liquid,2,1,Team Vitality,2025-08-20,Playoff QF
+M0215,E013,VCT 2025: EMEA Stage 2,Team Heretics,Natus Vincere,2,0,Team Heretics,2025-08-20,Playoff QF
+M0216,E013,VCT 2025: EMEA Stage 2,Fnatic,GIANTX,2,1,Fnatic,2025-08-21,Playoff QF
+M0217,E013,VCT 2025: EMEA Stage 2,Karmine Corp,Apeks,1,2,Apeks,2025-08-21,Playoff QF
+M0218,E013,VCT 2025: EMEA Stage 2,Team Vitality,Team Heretics,2,0,Team Vitality,2025-08-27,Playoff SF
+M0219,E013,VCT 2025: EMEA Stage 2,Team Liquid,Fnatic,2,1,Team Liquid,2025-08-27,Playoff SF
+M0220,E013,VCT 2025: EMEA Stage 2,Team Vitality,Team Liquid,2,1,Team Vitality,2025-08-31,Playoff GF
+M0221,E014,VCT 2025: Americas Stage 2,NRG Esports,G2 Esports,2,0,NRG Esports,2025-07-18,Week 1
+M0222,E014,VCT 2025: Americas Stage 2,LOUD,FURIA Esports,2,1,LOUD,2025-07-18,Week 1
+M0223,E014,VCT 2025: Americas Stage 2,Sentinels,100 Thieves,1,2,100 Thieves,2025-07-19,Week 1
+M0224,E014,VCT 2025: Americas Stage 2,Cloud9,Leviatan,2,0,Cloud9,2025-07-19,Week 1
+M0225,E014,VCT 2025: Americas Stage 2,KRU Esports,Evil Geniuses,2,1,KRU Esports,2025-07-20,Week 1
+M0226,E014,VCT 2025: Americas Stage 2,The Guard,2GAME Esports,2,0,The Guard,2025-07-20,Week 1
+M0227,E014,VCT 2025: Americas Stage 2,NRG Esports,LOUD,2,1,NRG Esports,2025-07-25,Week 2
+M0228,E014,VCT 2025: Americas Stage 2,G2 Esports,100 Thieves,2,0,G2 Esports,2025-07-25,Week 2
+M0229,E014,VCT 2025: Americas Stage 2,Cloud9,FURIA Esports,1,2,FURIA Esports,2025-07-26,Week 2
+M0230,E014,VCT 2025: Americas Stage 2,Sentinels,KRU Esports,2,1,Sentinels,2025-07-26,Week 2
+M0231,E014,VCT 2025: Americas Stage 2,100 Thieves,FURIA Esports,2,1,100 Thieves,2025-08-01,Week 3
+M0232,E014,VCT 2025: Americas Stage 2,NRG Esports,Cloud9,2,0,NRG Esports,2025-08-01,Week 3
+M0233,E014,VCT 2025: Americas Stage 2,G2 Esports,Sentinels,2,0,G2 Esports,2025-08-02,Week 3
+M0234,E014,VCT 2025: Americas Stage 2,LOUD,KRU Esports,2,1,LOUD,2025-08-02,Week 3
+M0235,E014,VCT 2025: Americas Stage 2,NRG Esports,G2 Esports,1,2,G2 Esports,2025-08-08,Week 4
+M0236,E014,VCT 2025: Americas Stage 2,LOUD,100 Thieves,2,1,LOUD,2025-08-08,Week 4
+M0237,E014,VCT 2025: Americas Stage 2,Sentinels,Cloud9,2,1,Sentinels,2025-08-09,Week 4
+M0238,E014,VCT 2025: Americas Stage 2,FURIA Esports,KRU Esports,2,0,FURIA Esports,2025-08-09,Week 4
+M0239,E014,VCT 2025: Americas Stage 2,G2 Esports,LOUD,2,1,G2 Esports,2025-08-15,Week 5
+M0240,E014,VCT 2025: Americas Stage 2,NRG Esports,Sentinels,2,0,NRG Esports,2025-08-15,Week 5
+M0241,E014,VCT 2025: Americas Stage 2,G2 Esports,NRG Esports,2,1,G2 Esports,2025-08-22,Playoff QF
+M0242,E014,VCT 2025: Americas Stage 2,LOUD,Sentinels,2,0,LOUD,2025-08-22,Playoff QF
+M0243,E014,VCT 2025: Americas Stage 2,FURIA Esports,100 Thieves,2,1,FURIA Esports,2025-08-23,Playoff QF
+M0244,E014,VCT 2025: Americas Stage 2,Cloud9,KRU Esports,2,0,Cloud9,2025-08-23,Playoff QF
+M0245,E014,VCT 2025: Americas Stage 2,G2 Esports,LOUD,2,1,G2 Esports,2025-08-28,Playoff SF
+M0246,E014,VCT 2025: Americas Stage 2,FURIA Esports,Cloud9,1,2,Cloud9,2025-08-28,Playoff SF
+M0247,E014,VCT 2025: Americas Stage 2,G2 Esports,Cloud9,2,0,G2 Esports,2025-09-01,Playoff GF
+M0248,E015,VALORANT Champions 2025,NRG Esports,Team Vitality,2,1,NRG Esports,2025-09-12,Group A
+M0249,E015,VALORANT Champions 2025,Paper Rex,G2 Esports,2,0,Paper Rex,2025-09-12,Group A
+M0250,E015,VALORANT Champions 2025,Team Liquid,LOUD,2,1,Team Liquid,2025-09-13,Group B
+M0251,E015,VALORANT Champions 2025,T1,Cloud9,2,0,T1,2025-09-13,Group B
+M0252,E015,VALORANT Champions 2025,Gen.G Esports,Team Heretics,1,2,Team Heretics,2025-09-14,Group C
+M0253,E015,VALORANT Champions 2025,DRX,FURIA Esports,2,1,DRX,2025-09-14,Group C
+M0254,E015,VALORANT Champions 2025,Fnatic,Natus Vincere,2,1,Fnatic,2025-09-15,Group D
+M0255,E015,VALORANT Champions 2025,Sentinels,Nongshim RedForce,2,0,Sentinels,2025-09-15,Group D
+M0256,E015,VALORANT Champions 2025,NRG Esports,Paper Rex,2,1,NRG Esports,2025-09-19,QF
+M0257,E015,VALORANT Champions 2025,Team Liquid,T1,1,2,T1,2025-09-19,QF
+M0258,E015,VALORANT Champions 2025,Team Heretics,DRX,2,0,Team Heretics,2025-09-20,QF
+M0259,E015,VALORANT Champions 2025,Fnatic,Sentinels,1,2,Sentinels,2025-09-20,QF
+M0260,E015,VALORANT Champions 2025,Team Vitality,G2 Esports,2,0,Team Vitality,2025-09-21,LR QF
+M0261,E015,VALORANT Champions 2025,LOUD,Cloud9,2,1,LOUD,2025-09-21,LR QF
+M0262,E015,VALORANT Champions 2025,Gen.G Esports,FURIA Esports,2,0,Gen.G Esports,2025-09-22,LR QF
+M0263,E015,VALORANT Champions 2025,Natus Vincere,Nongshim RedForce,2,1,Natus Vincere,2025-09-22,LR QF
+M0264,E015,VALORANT Champions 2025,NRG Esports,T1,2,0,NRG Esports,2025-09-25,SF
+M0265,E015,VALORANT Champions 2025,Team Heretics,Sentinels,1,2,Sentinels,2025-09-25,SF
+M0266,E015,VALORANT Champions 2025,Team Vitality,LOUD,2,1,Team Vitality,2025-09-26,LR SF1
+M0267,E015,VALORANT Champions 2025,Gen.G Esports,Natus Vincere,2,0,Gen.G Esports,2025-09-26,LR SF1
+M0268,E015,VALORANT Champions 2025,T1,Team Vitality,2,1,T1,2025-09-28,LR SF2
+M0269,E015,VALORANT Champions 2025,Sentinels,Gen.G Esports,2,1,Sentinels,2025-09-28,LR SF2
+M0270,E015,VALORANT Champions 2025,NRG Esports,T1,2,0,NRG Esports,2025-10-01,Upper Final
+M0271,E015,VALORANT Champions 2025,Sentinels,T1,2,1,Sentinels,2025-10-03,Lower Final
+M0272,E015,VALORANT Champions 2025,NRG Esports,Sentinels,1,2,Sentinels,2025-10-05,Grand Final

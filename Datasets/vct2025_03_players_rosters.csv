@@ -1,0 +1,241 @@
+player_id,ign,real_name,nationality,role,team_name,region,status
+P001,s0m,Samuel Oh,American,Duelist,NRG Esports,Americas,Active
+P002,Victor,Victor Wong,American,Duelist,NRG Esports,Americas,Active
+P003,Ethan,Ethan Arnold,American,Initiator,NRG Esports,Americas,Active
+P004,FNS,Pujan Mehta,Canadian,IGL/Controller,NRG Esports,Americas,Active
+P005,crashies,Austin Roberts,American,Initiator,NRG Esports,Americas,Active
+P006,TenZ,Tyson Ngo,Canadian,Duelist,Sentinels,Americas,Active
+P007,Zellsis,Jordan Montemurro,American,Duelist,Sentinels,Americas,Active
+P008,zekken,Zachary Patrone,American,Initiator,Sentinels,Americas,Active
+P009,bang,Sean Bezerra,American,Controller,Sentinels,Americas,Active
+P010,Sacy,Gustavo Rossi,Brazilian,Initiator,Sentinels,Americas,Active
+P011,Xeppaa,Erick Bach,American,Initiator,Cloud9,Americas,Active
+P012,v1c,Victor Truong,American,Duelist,Cloud9,Americas,Active
+P013,penny,Erik Penny,American,Sentinel,Cloud9,Americas,Active
+P014,OXY,Francis Hoang,American,Controller,Cloud9,Americas,Active
+P015,Mitch,Mitchell Shaw,American,IGL/Initiator,Cloud9,Americas,Active
+P016,Cryocells,Matthew Panganiban,American,Duelist,100 Thieves,Americas,Active
+P017,Asuna,Peter Mazuryk,American,Duelist,100 Thieves,Americas,Active
+P018,vora,Jordan Pulwer,American,Initiator,100 Thieves,Americas,Active
+P019,Timotino,Timothee Lavigne Dupont,French,Controller,100 Thieves,Americas,Active
+P020,AbsTract,Conor Doyle,American,Sentinel,100 Thieves,Americas,Active
+P021,aspas,Erick Santos,Brazilian,Duelist,LOUD,Americas,Active
+P022,saadhak,Matias Delipetro,Argentine,IGL/Controller,LOUD,Americas,Active
+P023,Less,Felipe Basso,Brazilian,Sentinel,LOUD,Americas,Active
+P024,tuyz,Arthur Andrade,Brazilian,Initiator,LOUD,Americas,Active
+P025,cauanzin,Cauan Pereira,Brazilian,Initiator,LOUD,Americas,Active
+P026,mwzera,Leonardo Serrati,Brazilian,Duelist,FURIA Esports,Americas,Active
+P027,Mazin,Murilo Alcantara,Brazilian,Controller,FURIA Esports,Americas,Active
+P028,nzr,Guilherme Pinheiro,Brazilian,Sentinel,FURIA Esports,Americas,Active
+P029,heat,Olavo Marcelo,Brazilian,Duelist,FURIA Esports,Americas,Active
+P030,Khalil,Khalil Schmidt,Brazilian,Initiator,FURIA Esports,Americas,Active
+P031,supamen,Phat Le,American,Duelist,Evil Geniuses,Americas,Active
+P032,bao,Bao Nguyen,American,Sentinel,Evil Geniuses,Americas,Active
+P033,Okeanos,Anthony Nguyen,American,Initiator,Evil Geniuses,Americas,Active
+P034,dgzin,Douglas Silva,Brazilian,IGL/Controller,Evil Geniuses,Americas,Active
+P035,C0M,Corbin Lee,American,Initiator,Evil Geniuses,Americas,Active
+P036,kiNgg,Francisco Aravena,Chilean,IGL/Controller,Leviatan,Americas,Active
+P037,Tacolilla,Vicente Compagnon,Chilean,Duelist,Leviatan,Americas,Active
+P038,Shyy,Gustavo Moreira,Chilean,Sentinel,Leviatan,Americas,Active
+P039,Mazino,Roberto Rivas,Chilean,Initiator,Leviatan,Americas,Active
+P040,treborxycs,Tomas Leal,Chilean,Initiator,Leviatan,Americas,Active
+P041,NagZ,Tomas Lopez,Argentine,Duelist,KRU Esports,Americas,Active
+P042,Klaus,Nicolas Ferrari,Argentine,Controller,KRU Esports,Americas,Active
+P043,keznit,Angelo Mori,Chilean,Duelist,KRU Esports,Americas,Active
+P044,Melser,Martin Strel,Argentine,Sentinel,KRU Esports,Americas,Active
+P045,delz1k,Danilo Ferrara,Argentine,Initiator,KRU Esports,Americas,Active
+P046,valyn,Jacob Batio,American,IGL,G2 Esports,Americas,Active
+P047,leaf,Nathan Orf,American,Duelist,G2 Esports,Americas,Active
+P048,trent,Trent Shorey,American,Initiator,G2 Esports,Americas,Active
+P049,jawgemo,Alexander Mor,American,Duelist,G2 Esports,Americas,Active
+P050,meddo,Johan Renbjork Lundborg,Swedish,Controller,G2 Esports,Americas,Active
+P051,neT,Zachary Cantrell,American,Duelist,The Guard,Americas,Active
+P052,Sayaplayer,Ha Jeong-woo,South Korean,Duelist,The Guard,Americas,Active
+P053,JonahP,Jonah Pulice,American,Controller,The Guard,Americas,Active
+P054,Nanguard,Nathan Dong,American,Initiator,The Guard,Americas,Active
+P055,oxidesf,Jason Ruiz,American,Sentinel,The Guard,Americas,Active
+P056,frz,Lucas Azenha,Brazilian,Duelist,2GAME Esports,Americas,Active
+P057,krain,Carlos Braz,Brazilian,Initiator,2GAME Esports,Americas,Active
+P058,gtnz,Gaston Heredia,Argentine,Controller,2GAME Esports,Americas,Active
+P059,pAura,Floriano Pinheiro,Brazilian,Sentinel,2GAME Esports,Americas,Active
+P060,RedZ,Renan Fernandes,Brazilian,IGL,2GAME Esports,Americas,Active
+P061,nAts,Ayaz Akhmetshin,Russian,Sentinel,Team Liquid,EMEA,Active
+P062,purp0,Semyon Borchev,Russian,Controller,Team Liquid,EMEA,Active
+P063,wayne,Wayne Chang,Taiwanese,Duelist,Team Liquid,EMEA,Active
+P064,MiniBoo,Dominykas Lukasevicius,Lithuanian,Initiator,Team Liquid,EMEA,Active
+P065,kamo,Kamil Frackowiak,Polish,Initiator,Team Liquid,EMEA,Active
+P066,cNed,Mehmet Yagiz Ipek,Turkish,Duelist,Natus Vincere,EMEA,Active
+P067,Ange1,Kyrylo Karasov,Ukrainian,IGL,Natus Vincere,EMEA,Active
+P068,Destrian,Timo Makinen,Finnish,Initiator,Natus Vincere,EMEA,Active
+P069,Shao,Dmitry Fedotov,Russian,Controller,Natus Vincere,EMEA,Active
+P070,YEKINDAR,Mareks Galinskis,Latvian,Duelist,Natus Vincere,EMEA,Active
+P071,Leo,Leo Jannesson,Swedish,Duelist,Fnatic,EMEA,Active
+P072,Alfajer,Emir Ali Beder,Turkish,Duelist,Fnatic,EMEA,Active
+P073,Boaster,Jake Howlett,British,IGL,Fnatic,EMEA,Active
+P074,Chronicle,Timofey Khromov,Russian,Sentinel,Fnatic,EMEA,Active
+P075,Magnum,Martin Penas,Slovak,Initiator,Fnatic,EMEA,Active
+P076,Jamppi,Elias Olkkonen,Finnish,Duelist,Team Vitality,EMEA,Active
+P077,PROFEK,Dawid Swiec,Polish,Initiator,Team Vitality,EMEA,Active
+P078,Derke,Nikita Sirmitev,Finnish,Duelist,Team Vitality,EMEA,Active
+P079,Sayonara,Stefan Mitcu,Romanian,Sentinel,Team Vitality,EMEA,Active
+P080,trexx,Hampus Eriksson,Swedish,Controller,Team Vitality,EMEA,Active
+P081,Wo0t,Mert Alkan,Turkish,IGL,Team Heretics,EMEA,Active
+P082,RieNs,Enes Ecirli,Turkish,Sentinel,Team Heretics,EMEA,Active
+P083,benjyfishy,Benjamin Fish,British,Duelist,Team Heretics,EMEA,Active
+P084,ComeBack,Berkcan Senturk,Turkish,Controller,Team Heretics,EMEA,Active
+P085,Boo,Ricardas Lukasevicius,Lithuanian,Initiator,Team Heretics,EMEA,Active
+P086,ARES,Ozan Yildirim,Turkish,Duelist,FUT Esports,EMEA,Active
+P087,qRaxs,Dogukan Balaban,Turkish,Initiator,FUT Esports,EMEA,Active
+P088,AtaKaptan,Ata Tan,Turkish,IGL,FUT Esports,EMEA,Active
+P089,MrFaliN,Furkan Yegen,Turkish,Controller,FUT Esports,EMEA,Active
+P090,Morro,Mehmet Can Donmez,Turkish,Sentinel,FUT Esports,EMEA,Active
+P091,AsLanM4shadoW,Ali Osman Balta,Turkish,Duelist,BBL Esports,EMEA,Active
+P092,Turko,Ali Turkben,Turkish,IGL,BBL Esports,EMEA,Active
+P093,QutioN,Orcan Yildirim,Turkish,Initiator,BBL Esports,EMEA,Active
+P094,SouhcNi,Souchanik Nain,Turkish,Controller,BBL Esports,EMEA,Active
+P095,just_magnum,Mehmet Yilmaz,Turkish,Sentinel,BBL Esports,EMEA,Active
+P096,Flickless,George Giouvris,Greek,Duelist,GIANTX,EMEA,Active
+P097,hoody,Aaro Peltokangas,Finnish,Initiator,GIANTX,EMEA,Active
+P098,rhyme,Max Cho,German,IGL,GIANTX,EMEA,Active
+P099,Cloud,Park Hyun-soo,South Korean,Controller,GIANTX,EMEA,Active
+P100,caulis,Luis Fagerstrom,Finnish,Sentinel,GIANTX,EMEA,Active
+P101,starxo,Patryk Kopczynski,Polish,Duelist,KOI,EMEA,Active
+P102,Sheydos,Bogdan Naumov,Russian,Initiator,KOI,EMEA,Active
+P103,Newcky,Nick Klompenhouwer,Dutch,Controller,KOI,EMEA,Active
+P104,Zyppan,Pontus Eek,Swedish,Duelist,KOI,EMEA,Active
+P105,grubinho,Vitor Gouveia,Brazilian,Sentinel,KOI,EMEA,Active
+P106,Nivera,Nabil Benrlitom,Belgian,Duelist,Karmine Corp,EMEA,Active
+P107,Wailers,Lucas Mouellic,French,IGL,Karmine Corp,EMEA,Active
+P108,pyrolllvlr,Artur Minin,Russian,Initiator,Karmine Corp,EMEA,Active
+P109,Jokoeur,Benjamin Lallemand,French,Controller,Karmine Corp,EMEA,Active
+P110,Marke,Marek Mrozek,Polish,Sentinel,Karmine Corp,EMEA,Active
+P111,bipo,Taranvir Singh,French,Initiator,Gentle Mates,EMEA,Active
+P112,marteen,Martin Patek,Czech,Controller,Gentle Mates,EMEA,Active
+P113,GLYPH,Conner Garcia,American,Duelist,Gentle Mates,EMEA,Active
+P114,Minny,Patrik Husek,Czech,Sentinel,Gentle Mates,EMEA,Active
+P115,kamykvalo,Kamil Sylvestrzak,Polish,Duelist,Gentle Mates,EMEA,Active
+P116,Governor,Peter No,South Korean,Duelist,Apeks,EMEA,Active
+P117,OLIZERA,Oliver Zerdoner,Croatian,Initiator,Apeks,EMEA,Active
+P118,penny9o,Erik Berntsen,Norwegian,Sentinel,Apeks,EMEA,Active
+P119,Hype,Mathias Velde,Norwegian,Controller,Apeks,EMEA,Active
+P120,Kiles,Viktor Shao,Norwegian,Duelist,Apeks,EMEA,Active
+P121,d4v41,David Mohandas,Singaporean,Duelist,Paper Rex,Pacific,Active
+P122,mindfreak,Aaron Leonhart,Australian,Initiator,Paper Rex,Pacific,Active
+P123,Jinggg,Wang Jing Jie,Singaporean,Duelist,Paper Rex,Pacific,Active
+P124,f0rsakeN,Jason Susanto,Singaporean,Initiator,Paper Rex,Pacific,Active
+P125,something,Something Renzo,Singaporean,Controller,Paper Rex,Pacific,Active
+P126,xeta,Son Seon-ho,South Korean,Duelist,T1,Pacific,Active
+P127,Carpe,Lee Jae-hyeok,South Korean,Sentinel,T1,Pacific,Active
+P128,ban,Oh Se-chan,South Korean,Controller,T1,Pacific,Active
+P129,glow,Lee Min-seong,South Korean,Initiator,T1,Pacific,Active
+P130,Rossy,Kim Chang-dong,South Korean,Duelist,T1,Pacific,Active
+P131,MaKo,Kim Myeong-gwan,South Korean,Controller,DRX,Pacific,Active
+P132,Rb,Goo Sang-min,South Korean,Duelist,DRX,Pacific,Active
+P133,Zest,Kim Ki-jung,South Korean,Sentinel,DRX,Pacific,Active
+P134,BuZz,Yu Byung-chul,South Korean,Initiator,DRX,Pacific,Active
+P135,free1ng,Jung Jae-won,South Korean,Duelist,DRX,Pacific,Active
+P136,karon,Kang Seung-ho,South Korean,IGL,Gen.G Esports,Pacific,Active
+P137,Foxy9,Jung Jae-sung,South Korean,Duelist,Gen.G Esports,Pacific,Active
+P138,Lakia,Kim Jong-min,South Korean,Initiator,Gen.G Esports,Pacific,Active
+P139,Meteor,Kim Tae-oh,South Korean,Duelist,Gen.G Esports,Pacific,Active
+P140,Munchkin,Byeon Sang-beom,South Korean,Controller,Gen.G Esports,Pacific,Active
+P141,ElevatedSpeaks,Elevated player,Indian,Duelist,Global Esports,Pacific,Active
+P142,Deryeon,Deryeon Player,Indian,Sentinel,Global Esports,Pacific,Active
+P143,Russ,Russ Player,Indian,Controller,Global Esports,Pacific,Active
+P144,LF,LF Player,Indian,Initiator,Global Esports,Pacific,Active
+P145,skrossi,Sk Rossi,Indian,Duelist,Global Esports,Pacific,Active
+P146,Kush,Kushagra Sharma,Indian,Duelist,Rex Regum Qeon,Pacific,Active
+P147,fl1pzjder,Johan Sundstein,Indonesian,Controller,Rex Regum Qeon,Pacific,Active
+P148,fikzo,Fikri Irvansyah,Indonesian,Initiator,Rex Regum Qeon,Pacific,Active
+P149,CigaretteS,Edy Prayoga,Indonesian,Duelist,Rex Regum Qeon,Pacific,Active
+P150,2ge,Wilson Tan,Singaporean,Sentinel,Rex Regum Qeon,Pacific,Active
+P151,Sushiboys,Thanamethk Mahatthananuyut,Thai,Duelist,TALON Esports,Pacific,Active
+P152,Crws,Thanachart Nuangjamnong,Thai,Initiator,TALON Esports,Pacific,Active
+P153,sScary,Chaiwat Suphakaew,Thai,Sentinel,TALON Esports,Pacific,Active
+P154,garnetS,Sarawut Nakarin,Thai,Controller,TALON Esports,Pacific,Active
+P155,WhiteLotus,Sasin Rattanakarnjanakit,Thai,Duelist,TALON Esports,Pacific,Active
+P156,Absol,Kazuki Fujinoki,Japanese,Duelist,ZETA DIVISION,Pacific,Active
+P157,SyouTa,Shota Aoki,Japanese,Initiator,ZETA DIVISION,Pacific,Active
+P158,SugarZ3ro,Shota Watanabe,Japanese,IGL,ZETA DIVISION,Pacific,Active
+P159,eKo,Yeom Wang-ryong,South Korean,Sentinel,ZETA DIVISION,Pacific,Active
+P160,Xdll,Yuto Mizomori,Japanese,Controller,ZETA DIVISION,Pacific,Active
+P161,kellyS,Kelly Sedillo,Filipino,Controller,Team Secret,Pacific,Active
+P162,JessieVash,Jessie Cuyco,Filipino,Sentinel,Team Secret,Pacific,Active
+P163,TenTen,Kim Tae-young,South Korean,Initiator,Team Secret,Pacific,Active
+P164,Sylvan,Go Young-sup,South Korean,Duelist,Team Secret,Pacific,Active
+P165,BerserX,Rizkie Adla Kusuma,Indonesian,Duelist,Team Secret,Pacific,Active
+P166,Dep,Yuuma Hara,Japanese,Duelist,DetonatioN FocusMe,Pacific,Active
+P167,Laz,Koji Ushida,Japanese,Initiator,DetonatioN FocusMe,Pacific,Active
+P168,Sutechan,Wataru Hagiwara,Japanese,Sentinel,DetonatioN FocusMe,Pacific,Active
+P169,crow,Tomoaki Maruoka,Japanese,Controller,DetonatioN FocusMe,Pacific,Active
+P170,takej,Ryumon Takemori,Japanese,Duelist,DetonatioN FocusMe,Pacific,Active
+P171,natz,Jonathan Adiputra,Indonesian,Duelist,BOOM Esports,Pacific,Active
+P172,Nakya,Alehandro Fabian Simanjorang,Indonesian,Initiator,BOOM Esports,Pacific,Active
+P173,d3ffo,Nikita Sudakov,Russian,Controller,BOOM Esports,Pacific,Active
+P174,Shiro,Hildegard Arnaldo,Indonesian,Duelist,BOOM Esports,Pacific,Active
+P175,NcSlasher,Sheldon Andersen Chandra,Indonesian,Sentinel,BOOM Esports,Pacific,Active
+P176,Xross,Lee Jeong-hwan,South Korean,Duelist,Nongshim RedForce,Pacific,Active
+P177,Rb_NS,Goo Sang-min,South Korean,Duelist,Nongshim RedForce,Pacific,Active
+P178,Francis,Kim Mu-bin,South Korean,Initiator,Nongshim RedForce,Pacific,Active
+P179,Dambi,Lee Hyuk-kyu,South Korean,Controller,Nongshim RedForce,Pacific,Active
+P180,Ivy,Park Sung-hyeon,South Korean,Sentinel,Nongshim RedForce,Pacific,Active
+P181,ZmjjKK,Zhang Zhao-jie,Chinese,Duelist,Edward Gaming,China,Active
+P182,nobody,Yang Jian-yu,Chinese,Initiator,Edward Gaming,China,Active
+P183,Smoggy,Li Zhi-yang,Chinese,Sentinel,Edward Gaming,China,Active
+P184,Haodong,Li Hao-dong,Chinese,Controller,Edward Gaming,China,Active
+P185,chichoo,Chi Xin-yu,Chinese,Duelist,Edward Gaming,China,Active
+P186,dogfish,Li Jun-chen,Chinese,Duelist,Bilibili Gaming,China,Active
+P187,Kiles_CN,Wang Yi-fan,Chinese,Initiator,Bilibili Gaming,China,Active
+P188,Biank,Wang Yue,Chinese,Controller,Bilibili Gaming,China,Active
+P189,XF,Xu Fang,Chinese,Sentinel,Bilibili Gaming,China,Active
+P190,wexchanges,Wang Jian-xin,Chinese,Duelist,Bilibili Gaming,China,Active
+P191,CHICHOO_FPX,Chen Zhi,Chinese,Duelist,FunPlus Phoenix,China,Active
+P192,Lysoar,Ly Soar,Chinese,Initiator,FunPlus Phoenix,China,Active
+P193,Bazooka,Zhang Wei,Chinese,Controller,FunPlus Phoenix,China,Active
+P194,Abo,Chen Bo,Chinese,Sentinel,FunPlus Phoenix,China,Active
+P195,Jingg,Zhang Jing,Chinese,Duelist,FunPlus Phoenix,China,Active
+P196,Haodong_DRG,Liu Hao-dong,Chinese,Duelist,Dragon Ranger Gaming,China,Active
+P197,Sonder,Li Chao,Chinese,Initiator,Dragon Ranger Gaming,China,Active
+P198,Jzz,Zhang Ze,Chinese,Controller,Dragon Ranger Gaming,China,Active
+P199,flame,Chen Huo,Chinese,Sentinel,Dragon Ranger Gaming,China,Active
+P200,braveaf,Zhang Yong,Chinese,Duelist,Dragon Ranger Gaming,China,Active
+P201,Wolf1,Player 1,Chinese,Duelist,Wolves Esports,China,Active
+P202,Wolf2,Player 2,Chinese,Initiator,Wolves Esports,China,Active
+P203,Wolf3,Player 3,Chinese,Controller,Wolves Esports,China,Active
+P204,Wolf4,Player 4,Chinese,Sentinel,Wolves Esports,China,Active
+P205,Wolf5,Player 5,Chinese,Duelist,Wolves Esports,China,Active
+P206,RA1,Player 1,Chinese,Duelist,Rare Atom,China,Active
+P207,RA2,Player 2,Chinese,Initiator,Rare Atom,China,Active
+P208,RA3,Player 3,Chinese,Controller,Rare Atom,China,Active
+P209,RA4,Player 4,Chinese,Sentinel,Rare Atom,China,Active
+P210,RA5,Player 5,Chinese,Duelist,Rare Atom,China,Active
+P211,Nova1,Player 1,Chinese,Duelist,Nova Esports,China,Active
+P212,Nova2,Player 2,Chinese,Initiator,Nova Esports,China,Active
+P213,Nova3,Player 3,Chinese,Controller,Nova Esports,China,Active
+P214,Nova4,Player 4,Chinese,Sentinel,Nova Esports,China,Active
+P215,Nova5,Player 5,Chinese,Duelist,Nova Esports,China,Active
+P216,Dicey,Dicey Player,Chinese,Duelist,TYLOO,China,Active
+P217,TL2,Player 2,Chinese,Initiator,TYLOO,China,Active
+P218,TL3,Player 3,Chinese,Controller,TYLOO,China,Active
+P219,TL4,Player 4,Chinese,Sentinel,TYLOO,China,Active
+P220,TL5,Player 5,Chinese,Duelist,TYLOO,China,Active
+P221,AG1,Player 1,Chinese,Duelist,All Gamers,China,Active
+P222,AG2,Player 2,Chinese,Initiator,All Gamers,China,Active
+P223,AG3,Player 3,Chinese,Controller,All Gamers,China,Active
+P224,AG4,Player 4,Chinese,Sentinel,All Gamers,China,Active
+P225,AG5,Player 5,Chinese,Duelist,All Gamers,China,Active
+P226,AS1,Player 1,Chinese,Duelist,Attacking Soul Esports,China,Active
+P227,AS2,Player 2,Chinese,Initiator,Attacking Soul Esports,China,Active
+P228,AS3,Player 3,Chinese,Controller,Attacking Soul Esports,China,Active
+P229,AS4,Player 4,Chinese,Sentinel,Attacking Soul Esports,China,Active
+P230,AS5,Player 5,Chinese,Duelist,Attacking Soul Esports,China,Active
+P231,SMG1,Player 1,Chinese,Duelist,Team SMG,China,Active
+P232,SMG2,Player 2,Chinese,Initiator,Team SMG,China,Active
+P233,SMG3,Player 3,Chinese,Controller,Team SMG,China,Active
+P234,SMG4,Player 4,Chinese,Sentinel,Team SMG,China,Active
+P235,SMG5,Player 5,Chinese,Duelist,Team SMG,China,Active
+P236,XLG1,Player 1,Chinese,Duelist,XLG Esports,China,Active
+P237,XLG2,Player 2,Chinese,Initiator,XLG Esports,China,Active
+P238,XLG3,Player 3,Chinese,Controller,XLG Esports,China,Active
+P239,XLG4,Player 4,Chinese,Sentinel,XLG Esports,China,Active
+P240,XLG5,Player 5,Chinese,Duelist,XLG Esports,China,Active

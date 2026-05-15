@@ -1,0 +1,141 @@
+event_id,event_name,region,team_name,placement,wins,losses,championship_points
+E002,VCT 2025: Americas Kickoff,Americas,NRG Esports,1,5,0,3
+E002,VCT 2025: Americas Kickoff,Americas,FURIA Esports,2,4,1,2
+E002,VCT 2025: Americas Kickoff,Americas,G2 Esports,3,3,2,1
+E002,VCT 2025: Americas Kickoff,Americas,Sentinels,4,3,2,1
+E002,VCT 2025: Americas Kickoff,Americas,LOUD,5,2,2,0
+E002,VCT 2025: Americas Kickoff,Americas,100 Thieves,6,2,2,0
+E002,VCT 2025: Americas Kickoff,Americas,Cloud9,7,1,2,0
+E002,VCT 2025: Americas Kickoff,Americas,Leviatan,8,1,2,0
+E002,VCT 2025: Americas Kickoff,Americas,2GAME Esports,9,1,2,0
+E002,VCT 2025: Americas Kickoff,Americas,KRU Esports,10,0,2,0
+E002,VCT 2025: Americas Kickoff,Americas,Evil Geniuses,11,0,2,0
+E002,VCT 2025: Americas Kickoff,Americas,The Guard,12,0,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,Paper Rex,1,5,0,3
+E003,VCT 2025: Pacific Kickoff,Pacific,DRX,2,4,1,2
+E003,VCT 2025: Pacific Kickoff,Pacific,Rex Regum Qeon,3,3,2,1
+E003,VCT 2025: Pacific Kickoff,Pacific,T1,4,3,2,1
+E003,VCT 2025: Pacific Kickoff,Pacific,Gen.G Esports,5,2,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,Nongshim RedForce,6,2,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,TALON Esports,7,1,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,ZETA DIVISION,8,1,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,Global Esports,9,0,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,Team Secret,10,0,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,BOOM Esports,11,0,2,0
+E003,VCT 2025: Pacific Kickoff,Pacific,DetonatioN FocusMe,12,0,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,Team Liquid,1,5,0,3
+E004,VCT 2025: EMEA Kickoff,EMEA,Team Vitality,2,4,1,2
+E004,VCT 2025: EMEA Kickoff,EMEA,Fnatic,3,3,2,1
+E004,VCT 2025: EMEA Kickoff,EMEA,Natus Vincere,4,3,2,1
+E004,VCT 2025: EMEA Kickoff,EMEA,Team Heretics,5,2,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,Karmine Corp,6,2,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,Gentle Mates,7,1,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,GIANTX,8,1,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,BBL Esports,9,0,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,KOI,10,0,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,Apeks,11,0,2,0
+E004,VCT 2025: EMEA Kickoff,EMEA,FUT Esports,12,0,2,0
+E005,VCT Masters Bangkok 2025,Global,NRG Esports,1,4,0,0
+E005,VCT Masters Bangkok 2025,Global,Team Liquid,2,3,1,0
+E005,VCT Masters Bangkok 2025,Global,Team Vitality,3,2,2,0
+E005,VCT Masters Bangkok 2025,Global,DRX,4,2,2,0
+E005,VCT Masters Bangkok 2025,Global,Paper Rex,5,1,2,0
+E005,VCT Masters Bangkok 2025,Global,Gen.G Esports,6,1,2,0
+E005,VCT Masters Bangkok 2025,Global,FURIA Esports,7,0,2,0
+E005,VCT Masters Bangkok 2025,Global,Edward Gaming,8,0,2,0
+E007,VCT 2025: Americas Stage 1,Americas,NRG Esports,1,10,1,12
+E007,VCT 2025: Americas Stage 1,Americas,FURIA Esports,2,9,2,9
+E007,VCT 2025: Americas Stage 1,Americas,G2 Esports,3,8,3,8
+E007,VCT 2025: Americas Stage 1,Americas,LOUD,4,7,4,6
+E007,VCT 2025: Americas Stage 1,Americas,Sentinels,5,6,5,5
+E007,VCT 2025: Americas Stage 1,Americas,100 Thieves,6,5,6,4
+E007,VCT 2025: Americas Stage 1,Americas,Cloud9,7,4,7,3
+E007,VCT 2025: Americas Stage 1,Americas,KRU Esports,8,3,8,2
+E007,VCT 2025: Americas Stage 1,Americas,Evil Geniuses,9,3,8,1
+E007,VCT 2025: Americas Stage 1,Americas,Leviatan,10,2,9,0
+E007,VCT 2025: Americas Stage 1,Americas,The Guard,11,1,10,0
+E007,VCT 2025: Americas Stage 1,Americas,2GAME Esports,12,0,11,0
+E008,VCT 2025: Pacific Stage 1,Pacific,Paper Rex,1,10,1,12
+E008,VCT 2025: Pacific Stage 1,Pacific,T1,2,9,2,9
+E008,VCT 2025: Pacific Stage 1,Pacific,Gen.G Esports,3,8,3,8
+E008,VCT 2025: Pacific Stage 1,Pacific,DRX,4,7,4,7
+E008,VCT 2025: Pacific Stage 1,Pacific,Nongshim RedForce,5,6,5,5
+E008,VCT 2025: Pacific Stage 1,Pacific,Rex Regum Qeon,6,5,6,4
+E008,VCT 2025: Pacific Stage 1,Pacific,TALON Esports,7,4,7,3
+E008,VCT 2025: Pacific Stage 1,Pacific,ZETA DIVISION,8,3,8,2
+E008,VCT 2025: Pacific Stage 1,Pacific,BOOM Esports,9,2,9,1
+E008,VCT 2025: Pacific Stage 1,Pacific,DetonatioN FocusMe,10,2,9,0
+E008,VCT 2025: Pacific Stage 1,Pacific,Global Esports,11,1,10,0
+E008,VCT 2025: Pacific Stage 1,Pacific,Team Secret,12,1,10,0
+E009,VCT 2025: EMEA Stage 1,EMEA,Team Vitality,1,10,1,12
+E009,VCT 2025: EMEA Stage 1,EMEA,Team Liquid,2,9,2,10
+E009,VCT 2025: EMEA Stage 1,EMEA,Team Heretics,3,8,3,9
+E009,VCT 2025: EMEA Stage 1,EMEA,Apeks,4,6,5,5
+E009,VCT 2025: EMEA Stage 1,EMEA,Fnatic,5,7,4,7
+E009,VCT 2025: EMEA Stage 1,EMEA,Natus Vincere,6,6,5,6
+E009,VCT 2025: EMEA Stage 1,EMEA,GIANTX,7,5,6,4
+E009,VCT 2025: EMEA Stage 1,EMEA,Karmine Corp,8,4,7,3
+E009,VCT 2025: EMEA Stage 1,EMEA,KOI,9,3,8,2
+E009,VCT 2025: EMEA Stage 1,EMEA,BBL Esports,10,2,9,1
+E009,VCT 2025: EMEA Stage 1,EMEA,Gentle Mates,11,1,10,0
+E009,VCT 2025: EMEA Stage 1,EMEA,FUT Esports,12,0,11,0
+E010,VCT Masters Toronto 2025,Global,Team Vitality,1,4,0,0
+E010,VCT Masters Toronto 2025,Global,T1,2,3,1,0
+E010,VCT Masters Toronto 2025,Global,Paper Rex,3,2,2,0
+E010,VCT Masters Toronto 2025,Global,Natus Vincere,4,2,2,0
+E010,VCT Masters Toronto 2025,Global,NRG Esports,5,1,2,0
+E010,VCT Masters Toronto 2025,Global,LOUD,6,1,2,0
+E010,VCT Masters Toronto 2025,Global,Team Heretics,7,0,2,0
+E010,VCT Masters Toronto 2025,Global,DRX,8,0,2,0
+E012,VCT 2025: Pacific Stage 2,Pacific,Paper Rex,1,10,1,12
+E012,VCT 2025: Pacific Stage 2,Pacific,Gen.G Esports,2,8,3,9
+E012,VCT 2025: Pacific Stage 2,Pacific,T1,3,7,4,8
+E012,VCT 2025: Pacific Stage 2,Pacific,Nongshim RedForce,4,6,5,6
+E012,VCT 2025: Pacific Stage 2,Pacific,DRX,5,6,5,5
+E012,VCT 2025: Pacific Stage 2,Pacific,TALON Esports,6,5,6,4
+E012,VCT 2025: Pacific Stage 2,Pacific,Rex Regum Qeon,7,4,7,3
+E012,VCT 2025: Pacific Stage 2,Pacific,BOOM Esports,8,3,8,2
+E012,VCT 2025: Pacific Stage 2,Pacific,ZETA DIVISION,9,2,9,1
+E012,VCT 2025: Pacific Stage 2,Pacific,DetonatioN FocusMe,10,1,10,0
+E012,VCT 2025: Pacific Stage 2,Pacific,Team Secret,11,1,10,0
+E012,VCT 2025: Pacific Stage 2,Pacific,Global Esports,12,0,11,0
+E013,VCT 2025: EMEA Stage 2,EMEA,Team Vitality,1,9,2,12
+E013,VCT 2025: EMEA Stage 2,EMEA,Team Liquid,2,8,3,10
+E013,VCT 2025: EMEA Stage 2,EMEA,Team Heretics,3,7,4,8
+E013,VCT 2025: EMEA Stage 2,EMEA,Fnatic,4,6,5,6
+E013,VCT 2025: EMEA Stage 2,EMEA,Natus Vincere,5,6,5,5
+E013,VCT 2025: EMEA Stage 2,EMEA,GIANTX,6,5,6,4
+E013,VCT 2025: EMEA Stage 2,EMEA,Karmine Corp,7,4,7,3
+E013,VCT 2025: EMEA Stage 2,EMEA,Apeks,8,3,8,2
+E013,VCT 2025: EMEA Stage 2,EMEA,KOI,9,2,9,1
+E013,VCT 2025: EMEA Stage 2,EMEA,BBL Esports,10,1,10,0
+E013,VCT 2025: EMEA Stage 2,EMEA,FUT Esports,11,1,10,0
+E013,VCT 2025: EMEA Stage 2,EMEA,Gentle Mates,12,0,11,0
+E014,VCT 2025: Americas Stage 2,Americas,G2 Esports,1,9,2,12
+E014,VCT 2025: Americas Stage 2,Americas,Cloud9,2,8,3,10
+E014,VCT 2025: Americas Stage 2,Americas,LOUD,3,7,4,8
+E014,VCT 2025: Americas Stage 2,Americas,FURIA Esports,4,7,4,7
+E014,VCT 2025: Americas Stage 2,Americas,NRG Esports,5,6,5,6
+E014,VCT 2025: Americas Stage 2,Americas,Sentinels,6,5,6,5
+E014,VCT 2025: Americas Stage 2,Americas,100 Thieves,7,4,7,3
+E014,VCT 2025: Americas Stage 2,Americas,KRU Esports,8,3,8,2
+E014,VCT 2025: Americas Stage 2,Americas,Evil Geniuses,9,2,9,1
+E014,VCT 2025: Americas Stage 2,Americas,Leviatan,10,2,9,0
+E014,VCT 2025: Americas Stage 2,Americas,The Guard,11,1,10,0
+E014,VCT 2025: Americas Stage 2,Americas,2GAME Esports,12,0,11,0
+E015,VALORANT Champions 2025,Global,Sentinels,1,6,1,0
+E015,VALORANT Champions 2025,Global,NRG Esports,2,6,1,0
+E015,VALORANT Champions 2025,Global,T1,3,4,3,0
+E015,VALORANT Champions 2025,Global,Team Heretics,4,3,2,0
+E015,VALORANT Champions 2025,Global,Team Vitality,5,3,2,0
+E015,VALORANT Champions 2025,Global,Gen.G Esports,6,2,3,0
+E015,VALORANT Champions 2025,Global,Paper Rex,7,2,2,0
+E015,VALORANT Champions 2025,Global,Fnatic,8,1,2,0
+E015,VALORANT Champions 2025,Global,LOUD,9,1,2,0
+E015,VALORANT Champions 2025,Global,DRX,10,1,2,0
+E015,VALORANT Champions 2025,Global,Team Liquid,11,1,2,0
+E015,VALORANT Champions 2025,Global,Natus Vincere,12,0,2,0
+E015,VALORANT Champions 2025,Global,Cloud9,13,0,2,0
+E015,VALORANT Champions 2025,Global,FURIA Esports,14,0,2,0
+E015,VALORANT Champions 2025,Global,G2 Esports,15,0,2,0
+E015,VALORANT Champions 2025,Global,Nongshim RedForce,16,0,2,0

@@ -1,0 +1,16 @@
+event_id,event_name,region,stage,start_date,end_date,prize_pool_usd,location,teams_count
+E001,VCT 2025: China Kickoff,China,Kickoff,2025-01-11,2025-02-07,0,"Shanghai, China",12
+E002,VCT 2025: Americas Kickoff,Americas,Kickoff,2025-01-16,2025-02-09,0,"Los Angeles, USA",12
+E003,VCT 2025: Pacific Kickoff,Pacific,Kickoff,2025-01-17,2025-02-09,250000,"Seoul, South Korea",12
+E004,VCT 2025: EMEA Kickoff,EMEA,Kickoff,2025-01-14,2025-02-10,0,"Berlin, Germany",12
+E005,VCT Masters Bangkok 2025,Global,Masters,2025-02-20,2025-03-02,500000,"Bangkok, Thailand",8
+E006,VCT 2025: China Stage 1,China,Stage 1,2025-03-13,2025-05-04,0,"Shanghai, China",12
+E007,VCT 2025: Americas Stage 1,Americas,Stage 1,2025-03-21,2025-05-04,TBD,"Los Angeles, USA",12
+E008,VCT 2025: Pacific Stage 1,Pacific,Stage 1,2025-03-21,2025-05-11,TBD,"Seoul, South Korea",12
+E009,VCT 2025: EMEA Stage 1,EMEA,Stage 1,2025-03-26,2025-05-18,TBD,"Berlin, Germany",12
+E010,VCT Masters Toronto 2025,Global,Masters,2025-06-07,2025-06-22,1000000,"Toronto, Canada",8
+E011,VCT 2025: China Stage 2,China,Stage 2,2025-07-03,2025-08-24,TBD,"Shanghai, China",12
+E012,VCT 2025: Pacific Stage 2,Pacific,Stage 2,2025-07-15,2025-08-31,250000,"Seoul, South Korea",12
+E013,VCT 2025: EMEA Stage 2,EMEA,Stage 2,2025-07-16,2025-08-31,250000,"Berlin, Germany",12
+E014,VCT 2025: Americas Stage 2,Americas,Stage 2,2025-07-18,2025-09-01,250000,"Los Angeles, USA",12
+E015,VALORANT Champions 2025,Global,Champions,2025-09-12,2025-10-05,2250000,"Paris, France",16
